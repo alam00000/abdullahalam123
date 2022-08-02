@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://abdullahalam.live/)
+[![MasterHead]([https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx?format=jpg&name=large))](https://abdullahalam.live/)
 <h1 align="center">Hello! I am Abdullah</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
