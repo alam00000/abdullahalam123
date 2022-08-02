@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://abdullahalam.live/)
 <h1 align="center">Hello! I am Abdullah</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalam123&label=Profile%20views&color=0eb437&style=flat" alt="abdullahalam123" /> </p>
 
