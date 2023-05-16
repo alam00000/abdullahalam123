@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalam123&show_icons=true&theme=synthwave&locale=en" alt="abdullahalam123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalam123&" alt="abdullahalam123" /></p>
