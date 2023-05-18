@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Motoko**
 
-- 👨‍💻 All of my projects are available at [https://abdullahalam.live/](https://abdullahalam.live/)
+- 👨‍💻 All of my projects are available at [https://abdullahalam.live/](https://abdullahalam.tech/)
 
 - 💬 Ask me about **MERN, Programming**
 
